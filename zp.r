@@ -1,4 +1,4 @@
-setwd('/Users/xuhong/Documents/Duke/JOB HUNTING/Job Interviews/Zappos')
+
 
 #######################################
 ########## Prepare Data ###############
